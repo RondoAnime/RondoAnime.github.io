@@ -1,0 +1,52 @@
+{
+  "anime": [
+    {
+      "Name": "1",
+      "Status": true
+    },
+    {
+      "Name": "2",
+      "Status": true
+    },
+    {
+      "Name": "3",
+      "Status": true
+    },
+    {
+      "Name": "4",
+      "Status": true
+    },
+    {
+      "Name": "5",
+      "Status": true
+    },
+    {
+      "Name": "6",
+      "Status": true
+    },
+    {
+      "Name": "7",
+      "Status": true
+    },
+    {
+      "Name": "8",
+      "Status": true
+    },
+    {
+      "Name": "9",
+      "Status": true
+    },
+    {
+      "Name": "10",
+      "Status": true
+    },
+    {
+      "Name": "11",
+      "Status": true
+    },
+    {
+      "Name": "12",
+      "Status": true
+    }
+  ]
+}
