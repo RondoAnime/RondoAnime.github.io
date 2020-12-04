@@ -42,9 +42,9 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-@font-face {
-  font-family: 'JF Flat', monospace;
-  src:url(fonts/JF-Flat-regular.ttf) format('truetype');
+@font-face{
+  font-family: "JF Flat";
+  src: url("../fonts/JF-Flat-regular.ttf") format("truetype");
 }
 *,
 *::before,
