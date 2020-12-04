@@ -20,14 +20,14 @@
   --yellow: #ffc107;
   --green: #28a745;
   --teal: #e32d76;
-  --cyan: #17a2b8;
+  --cyan: #c12a67;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #e32d76;
   --secondary: #6c757d;
   --success: #28a745;
-  --info: #17a2b8;
+  --info: #c12a67;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -2447,7 +2447,7 @@ textarea.form-control {
 }
 .btn:focus, .btn.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(100, 161, 157, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(255, 161, 157, 0.25);
 }
 .btn.disabled, .btn:disabled {
   opacity: 0.65;
@@ -2469,14 +2469,14 @@ fieldset:disabled a.btn {
 .btn-primary:hover {
   color: #fff;
   font-family: "JF Flat";
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
   font-family: "JF Flat";
-  background-color: #548b87;
-  border-color: #4f837f;
+  background-color: #c12a67;
+  border-color: #c12a67;
   box-shadow: 0 0 0 0.2rem rgba(123, 175, 172, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
@@ -2486,8 +2486,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #4f837f;
-  border-color: #4a7b78;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(123, 175, 172, 0.5);
@@ -2555,8 +2555,8 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-info:hover {
   color: #fff;
@@ -2571,8 +2571,8 @@ fieldset:disabled a.btn {
 }
 .btn-info.disabled, .btn-info:disabled {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
   color: #fff;
@@ -2809,25 +2809,25 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-info {
-  color: #17a2b8;
-  border-color: #17a2b8;
+  color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-outline-info:hover {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-outline-info:focus, .btn-outline-info.focus {
   box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.5);
 }
 .btn-outline-info.disabled, .btn-outline-info:disabled {
-  color: #17a2b8;
+  color: #c12a67;
   background-color: transparent;
 }
 .btn-outline-info:not(:disabled):not(.disabled):active, .btn-outline-info:not(:disabled):not(.disabled).active, .show > .btn-outline-info.dropdown-toggle {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #c12a67;
+  border-color: #c12a67;
 }
 .btn-outline-info:not(:disabled):not(.disabled):active:focus, .btn-outline-info:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-info.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.5);
@@ -4803,7 +4803,7 @@ a.badge-success:focus, a.badge-success.focus {
 
 .badge-info {
   color: #fff;
-  background-color: #17a2b8;
+  background-color: #c12a67;
 }
 a.badge-info:hover, a.badge-info:focus {
   color: #fff;
@@ -6223,7 +6223,7 @@ button.bg-success:focus {
 }
 
 .bg-info {
-  background-color: #17a2b8 !important;
+  background-color: #c12a67 !important;
 }
 
 a.bg-info:hover, a.bg-info:focus,
@@ -6343,7 +6343,7 @@ button.bg-black:focus {
 }
 
 .border-info {
-  border-color: #17a2b8 !important;
+  border-color: #c12a67 !important;
 }
 
 .border-warning {
@@ -9933,7 +9933,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: #c12a67 !important;
 }
 
 a.text-info:hover, a.text-info:focus {
@@ -10228,7 +10228,6 @@ font-family: "JF Flat";
 }
 .masthead h2 {
   font-family: "JF Flat";
-  max-width: 20rem;
   font-size: 1rem;
   background: rgba(255, 255, 255,1);
   -webkit-text-fill-color: transparent;
