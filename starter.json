@@ -1,14 +1,10 @@
 {
 	"update": {
-		"version": 1.9999,
+		"version": 1.999,
 		"update_title": "(ɔ◔‿◔)ɔ ♥اهلاَ فيك في تحديث روندو الجديد 2.0",
 		"update_message": "هذي النسخة التجريبية, غيرنا فيها اشياء كثير, واضفنا فيها طلباتكم مثل مشغل روندو الخاص!, نتمنى تعجبكم وتعطونا ملاحظتكم للنسخة الكاملة على الدسكورد,  شكراً لكم لانتظاركم ونتمنى ما نخيب آمالكم (ɔ◔‿◔)ɔ ♥"
 	},
-	"header_images": [{
-			"image_url": "https://cdn.discordapp.com/attachments/547482450985746440/833942536312586250/Untitled-1.png",
-			"url": "https://discord.gg/uFrnMub",
-			"title": "دسكورد روندو"
-		},
+	"header_images": [
 		{
 			"image_url": "https://cdn.discordapp.com/attachments/547482450985746440/833972268660817920/bnha.png",
 			"url": "https://rondoanime.github.io/anime/41587/Boku no Hero Academia 5th Season",
