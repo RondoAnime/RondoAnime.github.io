@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "Name": "1",
+      "Status": true
+    },
+    {
+      "Name": "2",
+      "Status": true
+    },
+    {
+      "Name": "3",
+      "Status": true
+    },
+    {
+      "Name": "4",
+      "Status": true
+    },
+    {
+      "Name": "5",
+      "Status": true
+    },
+    {
+      "Name": "6",
+      "Status": true
+    }
+  ]
+}
